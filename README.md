@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring AI Engineer | Machine Learning Engineer</h3>
 
 <p align="center">
-  🎓 BS Artificial Intelligence @ University of Management and Technology (UMT), Sialkot &nbsp;|&nbsp; Expected 2026<br/>
+  🎓 BS Artificial Intelligence @ University of Management and Technology (UMT), Sialkot &nbsp;|&nbsp; 2026<br/>
   📍 Sialkot, Pakistan
 </p>
 
