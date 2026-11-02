@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammad Sameer Akram Mughal 👋</h1>
+<h1 align="center">Hi, I'm Muhammad Sameer 👋</h1>
 <h3 align="center">Aspiring AI Engineer | Machine Learning Engineer</h3>
 
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sameer-akram-mughal-995b8a21a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sameermughal109joe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-sameer-995b8a21a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sameer.aicore@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
