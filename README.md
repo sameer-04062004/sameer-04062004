@@ -1,71 +1,78 @@
-<h1 align="center">Hi, I'm Muhammad Sameer 👋</h1>
-<h3 align="center">Aspiring AI Engineer | Machine Learning Engineer</h3>
+<div align="center">
+  <h1>Muhammad Sameer</h1>
+  <p><strong>AI & Machine Learning Engineer</strong></p>
+  <p>
+    BS Artificial Intelligence · University of Management and Technology (UMT), Sialkot<br/>
+    Sialkot, Pakistan
+  </p>
 
-<p align="center">
-  🎓 BS Artificial Intelligence @ University of Management and Technology (UMT), Sialkot &nbsp;|&nbsp; 2026<br/>
-  📍 Sialkot, Pakistan
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-sameer-995b8a21a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sameer.aicore@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-### 🧠 About Me
-
-I'm an Artificial Intelligence graduate passionate about building intelligent systems that solve real problems — from mental health screening to student support tools. I enjoy working across the full ML/DL pipeline: data processing, model building, and deployment.
-
-- 🔭 Currently building projects in **Machine Learning, Deep Learning, and Computer Vision**
-- 🌱 Currently learning: Data Analytics (Google Data Analytics Professional Certificate)
-- 🎓 Completed **CS50P — Harvard University's Introduction to Programming with Python**
-- 💬 Ask me about: TensorFlow, PyTorch, Scikit-learn, OpenCV, RAG systems
-- 📫 Reach me: sameermughal109joe@gmail.com
+  <p>
+    <a href="https://www.linkedin.com/in/muhammad-sameer-995b8a21a">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:sameer.aicore@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/sameer-04062004?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### 🚀 Featured Projects
+### About
 
-**🔹 [TriDep – Multi-Modal Depression Screening](#)**
-A multimodal depression screening system combining text, audio, and facial features using deep learning models to improve detection robustness.
-`Python` `TensorFlow` `OpenCV` `NLP`
+AI graduate building production-ready machine learning systems, multimodal pipelines, and Retrieval-Augmented Generation (RAG) applications. My work focuses on turning noisy real-world data—across text, audio, and vision—into reliable, deployable models.
 
-**🔹 [MindBridge-RAG](#)**
-A safety-aware Retrieval-Augmented Generation (RAG) chatbot built to support students dealing with exam stress, with guardrails for sensitive queries.
-`Python` `RAG` `LLMs` `Prompt Engineering`
-
-**🔹 [Denoising Autoencoder](#)**
-A TensorFlow/Keras autoencoder for denoising MNIST and Fashion-MNIST images, evaluated across varying noise levels.
-`TensorFlow` `Keras` `Computer Vision`
-
-**🔹 [Course Registration Database](#)**
-A normalized SQL database design for course registration and student management, built for data integrity and scalability.
-`SQL` `Database Design`
-
-> 📌 Replace the `#` links above with your actual repo URLs once you re-upload/rename them.
+- **Core Focus:** Multimodal Deep Learning, Computer Vision, RAG Architectures, and Workflow Automation
+- **Education:** BS Artificial Intelligence (UMT Sialkot, 2026) · Harvard CS50P (Python)
+- **Contact:** [sameer.aicore@gmail.com](mailto:sameer.aicore@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack
+### Selected Repositories
 
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-**ML/DL:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-
-**Libraries:** ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-**Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameer-04062004&show_icons=true&theme=dark" alt="Sameer's GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-04062004&theme=dark" alt="Sameer's GitHub streak" height="160"/>
-</p>
+| Project | Overview | Stack |
+| :--- | :--- | :--- |
+| **[TriDep-Depression-Detection](https://github.com/sameer-04062004/TriDep-Depression-Detection)** | Tri-modal depression screening framework fusing text (SBERT), audio (Wav2Vec2), and facial action units (OpenFace) evaluated under Leave-One-Subject-Out cross-validation on DAIC-WOZ. | `PyTorch` `SBERT` `Wav2Vec2` `OpenCV` |
+| **[MindBridge-RAG](https://github.com/sameer-04062004/MindBridge-RAG)** | Safety-aware Retrieval-Augmented Generation chatbot engineered for student mental well-being, backed by FastAPI and strict prompt guardrails for sensitive queries. | `Python` `FastAPI` `RAG` `LLMs` |
+| **[Medical-Insurance-Cost-Estimator](https://github.com/sameer-04062004/Medical-Insurance-Cost-Estimator)** | End-to-end regression pipeline predicting patient insurance charges using exploratory data analysis, non-linear feature interactions, and ensemble modeling. | `Scikit-learn` `Pandas` `NumPy` `Jupyter` |
+| **[linkedin-post-automation](https://github.com/sameer-04062004/linkedin-post-automation)** | Automated content generation and publishing workflow designed to streamline technical writing and social scheduling. | `Python` `Automation` `APIs` |
+| **[Admin-chatbot](https://github.com/sameer-04062004/Admin-chatbot)** | Conversational assistant built to handle administrative queries, routing, and automated support responses. | `Python` `NLP` |
 
 ---
 
-<p align="center"><i>Open to AI Engineer / Machine Learning Engineer opportunities 🚀</i></p>
+### Technical Stack
+
+**Languages & Databases**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Machine Learning & Vision**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Backend, Tools & Deployment**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+---
+
+### Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sameer-04062004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="155" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-04062004&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="155" />
+</div>
