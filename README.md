@@ -23,7 +23,7 @@
 
 ### About
 
-AI graduate building production-ready machine learning systems, multimodal pipelines, and Retrieval-Augmented Generation (RAG) applications. My work focuses on turning noisy real-world data—across text, audio, and vision—into reliable, deployable models.
+AI graduate building production-ready machine learning systems, multimodal pipelines, and Retrieval-Augmented Generation (RAG) applications. My work focuses on turning noisy real-world data across text, audio, and vision into reliable, deployable models.
 
 - **Core Focus:** Multimodal Deep Learning, Computer Vision, RAG Architectures, and Workflow Automation
 - **Education:** BS Artificial Intelligence (UMT Sialkot, 2026) · Harvard CS50P (Python)
